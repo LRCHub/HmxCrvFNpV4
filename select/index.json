@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ガード下の靴みがき",
+  "base_artist": "宮城まり子",
+  "createdAt": "2025-12-14T11:32:52.766920Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガード下の靴みがき",
+      "artist": "宮城まり子",
+      "has_synced": true,
+      "path": "select/01_ガード下の靴みがき_宮城まり子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガード下の靴みがき",
+      "artist": "宮城まり子",
+      "has_synced": false,
+      "path": "select/pl_01_ガード下の靴みがき_宮城まり子.txt"
+    }
+  ]
+}
